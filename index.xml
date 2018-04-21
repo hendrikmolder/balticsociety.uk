@@ -2,13 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Manchester Baltic Society</title>
-    <link>https://beta.balticsociety.uk/</link>
+    <link>https://hendrikmolder.github.io/balticsociety.uk/</link>
     <description>Recent content on Manchester Baltic Society</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     
-	<atom:link href="https://beta.balticsociety.uk/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hendrikmolder.github.io/balticsociety.uk/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title></title>
+      <link>https://hendrikmolder.github.io/balticsociety.uk/test/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hendrikmolder.github.io/balticsociety.uk/test/</guid>
+      <description> Test page Hello world
+Test header </description>
+    </item>
     
   </channel>
 </rss>
